@@ -1,7 +1,7 @@
 # IGDB Fetcher and Game Database Generator
 
 This project contains tools to **fetch**, **clean**, and **normalize** video game data from [IGDB](https://www.igdb.com/) (Internet Game Database), producing a high-quality SQLite database with **350k+ games** for use in recommendation systems, analysis, or game discovery apps.
-
+It is also availabe in [kaggle](https://www.kaggle.com/datasets/emirshn/igdb-dataset-for-data-mining-projects/data) 
 ---
 
 ## What's Included
